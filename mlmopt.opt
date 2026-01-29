@@ -919,3 +919,4 @@ EXCLUDE "Symbolic_Toolbox:asset_info=1093637" GROUP Symbolic_Toolbox_NNU_2024b
 
 # Exclude Vehicle_Network_Toolbox floating licenses from NNU groups
 EXCLUDE "Vehicle_Network_Toolbox:asset_info=846059" GROUP Vehicle_Network_Toolbox_NNU_2025b
+
