@@ -1,0 +1,921 @@
+TIMEOUTALL 14400
+AUTOMATIC_REREAD ON
+GROUPCASEINSENSITIVE ON
+
+EXCLUDEALL GROUP EXCLUDEFROMALLLICENSES
+
+GROUP EXCLUDEFROMALLLICENSES
+
+########################################################################
+#
+#      Regensburg Pool
+#
+########################################################################
+
+########################################################################
+###        NNU - LICENSES                                         ######
+########################################################################
+
+########################################################################
+###        Invoiced NNUs (563824, 40969865)
+########################################################################
+
+# License 563824
+# R2025B
+#-- 5 total, 0 used --#
+GROUP AUTOSAR_Blockset_NNU_2025b
+
+#-- 1 total, 0 used --#
+GROUP Automated_Driving_Toolbox_NNU_2025b
+
+#-- 2 total, 0 used --#
+GROUP Compiler_NNU_2025b
+
+#-- 7 total, 0 used --#
+GROUP Control_Toolbox_NNU_2025b
+
+#-- 3 total, 0 used --#
+GROUP EDA_Simulator_Link_NNU_2025b
+
+#-- 18 total, 0 used --#
+GROUP Fixed_Point_Toolbox_NNU_2025b
+
+#-- 2 total, 0 used --#
+GROUP Fuzzy_Toolbox_NNU_2025b
+
+#-- 5 total, 0 used --#
+GROUP Identification_Toolbox_NNU_2025b
+
+#-- 2 total, 0 used --#
+GROUP Image_Acquisition_Toolbox_NNU_2025b
+
+#-- 2 total, 0 used --#
+GROUP Image_Toolbox_NNU_2025b
+
+#-- 2 total, 0 used --#
+GROUP Instr_Control_Toolbox_NNU_2025b
+
+#-- 197 total, 0 used --#
+GROUP MATLAB_NNU_2025b
+
+#-- 1 total, 0 used --#
+GROUP MATLAB_Builder_for_Java_NNU_2025b
+
+#-- 19 total, 0 used --#
+GROUP MATLAB_Coder_NNU_2025b
+
+#-- 1 total, 0 used --#
+GROUP MATLAB_Report_Gen_NNU_2025b
+
+#-- 1 total, 0 used --#
+GROUP Navigation_Toolbox_NNU_2025b
+
+#-- 2 total, 0 used --#
+GROUP Neural_Network_Toolbox_NNU_2025b
+
+#-- 14 total, 0 used --#
+GROUP Optimization_Toolbox_NNU_2025b
+
+#-- 3 total, 0 used --#
+GROUP Power_System_Blocks_NNU_2025b
+
+#-- 1 total, 0 used --#
+GROUP ROS_Toolbox_NNU_2025b
+
+#-- 12 total, 0 used --#
+GROUP RTW_Embedded_Coder_NNU_2025b
+
+#-- 16 total, 0 used --#
+GROUP Real-Time_Workshop_NNU_2025b
+
+#-- 182 total, 0 used --#
+GROUP SIMULINK_NNU_2025b
+
+#-- 1 total, 0 used --#
+GROUP SIMULINK_Report_Gen_NNU_2025b
+
+#-- 2 total, 0 used --#
+GROUP Signal_Toolbox_NNU_2025b
+
+#-- 1 total, 0 used --#
+GROUP SimMechanics_NNU_2025b
+
+#-- 3 total, 0 used --#
+GROUP Simscape_NNU_2025b
+
+#-- 1 total, 0 used --#
+GROUP Simulink_Compiler_NNU_2025b
+
+#-- 4 total, 0 used --#
+GROUP Simulink_Control_Design_NNU_2025b
+
+#-- 1 total, 0 used --#
+GROUP Simulink_Coverage_NNU_2025b
+
+#-- 3 total, 0 used --#
+GROUP Simulink_Requirements_NNU_2025b
+
+#-- 3 total, 0 used --#
+GROUP Simulink_Test_NNU_2025b
+
+#-- 81 total, 0 used --#
+GROUP Stateflow_NNU_2025b
+
+#-- 1 total, 0 used --#
+GROUP Vehicle_Network_Toolbox_NNU_2025b
+
+#-- 2 total, 0 used --#
+GROUP Video_and_Image_Blockset_NNU_2025b
+
+#-- 1 total, 0 used --#
+GROUP XPC_Target_NNU_2025b
+
+
+# R2024B
+#-- 15 total, 0 used --#
+GROUP MATLAB_NNU_2024b
+
+#-- 15 total, 0 used --#
+GROUP SIMULINK_NNU_2024b
+
+#-- 10 total, 0 used --#
+GROUP Stateflow_NNU_2024b
+
+
+# R2023B
+#-- 8 total, 0 used --#
+GROUP C2000_Blockset_NNU_2023b
+
+#-- 3 total, 0 used --#
+GROUP Fuzzy_Toolbox_NNU_2023b
+
+#-- 3 total, 0 used --#
+GROUP Image_Acquisition_Toolbox_NNU_2023b
+
+#-- 4 total, 0 used --#
+GROUP Image_Toolbox_NNU_2023b
+
+#-- 1 total, 0 used --#
+GROUP Neural_Network_Toolbox_NNU_2023b
+
+#-- 3 total, 0 used --#
+GROUP Statistics_Toolbox_NNU_2023b
+
+#-- 4 total, 0 used --#
+GROUP Video_and_Image_Blockset_NNU_2023b
+
+
+# R2022B
+#-- 3 total, 0 used --#
+GROUP Fixed_Point_Toolbox_NNU_2022b
+
+#-- 7 total, 0 used --#
+GROUP MATLAB_NNU_2022b
+
+#-- 2 total, 0 used --#
+GROUP Power_System_Blocks_NNU_2022b
+
+#-- 7 total, 0 used --#
+GROUP SIMULINK_NNU_2022b
+
+#-- 2 total, 0 used --#
+GROUP Simscape_NNU_2022b
+
+#-- 4 total, 0 used --#
+GROUP Stateflow_NNU_2022b
+
+
+# R2020A
+#-- 1 total, 0 used --#
+GROUP Robotics_System_Toolbox_NNU_2020a
+
+
+# R2012B
+#-- 18 total, 0 used --#
+GROUP Fixed-Point_Blocks_NNU_2012b
+
+
+# R2010B
+#-- 8 total, 0 used --#
+GROUP Stateflow_Coder_NNU_2010b
+
+
+# License 40969865
+# R2025B
+#-- 16 total, 0 used --#
+GROUP MATLAB_NNU_2025b
+
+#-- 8 total, 0 used --#
+GROUP SIMULINK_NNU_2025b
+
+
+# R2024B
+#-- 1 total, 0 used --#
+GROUP Control_Toolbox_NNU_2024b
+
+#-- 1 total, 0 used --#
+GROUP Curve_Fitting_Toolbox_NNU_2024b
+
+#-- 1 total, 0 used --#
+GROUP Distrib_Computing_Toolbox_NNU_2024b
+
+#-- 1 total, 0 used --#
+GROUP Fuzzy_Toolbox_NNU_2024b
+
+#-- 1 total, 0 used --#
+GROUP Instr_Control_Toolbox_NNU_2024b
+
+#-- 1 total, 0 used --#
+GROUP MATLAB_NNU_2024b
+
+#-- 12 total, 0 used --#
+GROUP MATLAB_Coder_NNU_2024b
+
+#-- 1 total, 0 used --#
+GROUP OPC_Toolbox_NNU_2024b
+
+#-- 2 total, 0 used --#
+GROUP Optimization_Toolbox_NNU_2024b
+
+#-- 1 total, 0 used --#
+GROUP RTW_Embedded_Coder_NNU_2024b
+
+#-- 11 total, 0 used --#
+GROUP Real-Time_Workshop_NNU_2024b
+
+#-- 7 total, 0 used --#
+GROUP SIMULINK_NNU_2024b
+
+#-- 1 total, 0 used --#
+GROUP Stateflow_NNU_2024b
+
+#-- 1 total, 0 used --#
+GROUP Symbolic_Toolbox_NNU_2024b
+
+
+# R2023B
+#-- 2 total, 0 used --#
+GROUP Control_Toolbox_NNU_2023b
+
+#-- 1 total, 0 used --#
+GROUP Curve_Fitting_Toolbox_NNU_2023b
+
+#-- 1 total, 0 used --#
+GROUP Excel_Link_NNU_2023b
+
+#-- 5 total, 0 used --#
+GROUP MATLAB_Coder_NNU_2023b
+
+#-- 2 total, 0 used --#
+GROUP Optimization_Toolbox_NNU_2023b
+
+#-- 6 total, 0 used --#
+GROUP Real-Time_Workshop_NNU_2023b
+
+#-- 2 total, 0 used --#
+GROUP SIMULINK_NNU_2023b
+
+
+#####################################################################
+###         Parking license for users not yet invoiced (708692)
+#####################################################################
+
+# License 708692 - Parking license for users not yet invoiced
+# R2025B
+#-- 1 total, 0 used --#
+GROUP Control_Toolbox_NNU_2025b
+
+#-- 7 total, 0 used --#
+GROUP MATLAB_NNU_2025b
+
+#-- 1 total, 0 used --#
+GROUP MATLAB_Coder_NNU_2025b
+
+#-- 1 total, 0 used --#
+GROUP Optimization_Toolbox_NNU_2025b
+
+#-- 1 total, 0 used --#
+GROUP Real-Time_Workshop_NNU_2025b
+
+#-- 6 total, 0 used --#
+GROUP SIMULINK_NNU_2025b
+
+
+# R2022B
+#-- 1 total, 0 used --#
+GROUP Robust_Toolbox_NNU_2022b
+
+
+#####################################################################
+###         Not invoiced (Graz 2019b, 40712229)
+#####################################################################
+
+# License 40712229 - Not invoiced
+# R2019B
+#-- 1 total, 0 used --#
+GROUP AUTOSAR_Blockset_NNU_2019b
+
+#-- 1 total, 0 used --#
+GROUP Compiler_NNU_2019b
+
+#-- 5 total, 0 used --#
+GROUP Control_Toolbox_NNU_2019b
+
+#-- 1 total, 0 used --#
+GROUP Curve_Fitting_Toolbox_NNU_2019b
+
+#-- 4 total, 0 used --#
+GROUP Fixed_Point_Toolbox_NNU_2019b
+
+#-- 2 total, 0 used --#
+GROUP Identification_Toolbox_NNU_2019b
+
+#-- 36 total, 0 used --#
+GROUP MATLAB_NNU_2019b
+
+#-- 1 total, 0 used --#
+GROUP MATLAB_Builder_for_Java_NNU_2019b
+
+#-- 1 total, 0 used --#
+GROUP Optimization_Toolbox_NNU_2019b
+
+#-- 1 total, 0 used --#
+GROUP Robust_Toolbox_NNU_2019b
+
+#-- 36 total, 0 used --#
+GROUP SIMULINK_NNU_2019b
+
+#-- 7 total, 0 used --#
+GROUP SL_Verification_Validation_NNU_2019b
+
+#-- 7 total, 0 used --#
+GROUP Simulink_Coverage_NNU_2019b
+
+#-- 7 total, 0 used --#
+GROUP Simulink_Requirements_NNU_2019b
+
+#-- 31 total, 0 used --#
+GROUP Stateflow_NNU_2019b
+
+
+########################################################################
+###        Floating - LICENSES                                    ######
+########################################################################
+
+########################################################################
+###        EU Floating (Invoiced CN)
+########################################################################
+
+# License 846059
+# (includes Polyspace from 40799861 and 40945585)
+
+GROUP MATLABSIMULINK_FLOATING_846059
+
+GROUP OTHERTOOLBOXES_FLOATING_846059
+
+# License 1093637
+
+GROUP MATLABSIMULINK_FLOATING_1093637
+
+GROUP OTHERTOOLBOXES_FLOATING_1093637
+
+
+########################################################################
+###        Global Floating (Not Invoiced CN)
+########################################################################
+
+# License 41296740
+
+GROUP GLOBAL_FLOATING
+
+
+########################################################################
+###
+###        External licenses (only hosted)
+###
+########################################################################
+
+########################################################################
+###        Hungary
+########################################################################
+
+# License 40591459
+# R2025B
+#-- 5 total, 0 used --#
+GROUP MATLAB_NNU_40591459_2025b
+
+#-- 1 total, 0 used --#
+GROUP Optimization_Toolbox_NNU_40591459_2025b
+
+#-- 5 total, 0 used --#
+GROUP SIMULINK_NNU_40591459_2025b
+
+#-- 5 total, 0 used --#
+GROUP Stateflow_NNU_40591459_2025b
+
+# License 40862198
+# R2025B
+#-- 3 total, 0 used --#
+GROUP MATLAB_NNU_40862198_2025b
+
+#-- 3 total, 0 used --#
+GROUP SIMULINK_NNU_40862198_2025b
+
+#-- 3 total, 0 used --#
+GROUP Stateflow_NNU_40862198_2025b
+
+
+########################################################################
+###        Turkey
+########################################################################
+
+# License 41033057 (NNU)
+# R2022B
+#-- 3 total, 0 used --#
+GROUP MATLAB_NNU_41033057_2022b
+
+#-- 3 total, 0 used --#
+GROUP SIMULINK_NNU_41033057_2022b
+
+#-- 3 total, 0 used --#
+GROUP Stateflow_NNU_41033057_2022b
+
+# License 41134453 (Floating)
+
+GROUP MATLABSIMULINK_FLOATING_41134453
+
+GROUP OTHERTOOLBOXES_FLOATING_41134453
+
+
+########################################################################
+###        INCLUDE / EXCLUDE SECTION                              ######
+########################################################################
+
+# License 563824
+
+# R2025B
+INCLUDE "AUTOSAR_Blockset:asset_info=563824" GROUP AUTOSAR_Blockset_NNU_2025b
+INCLUDE "Automated_Driving_Toolbox:asset_info=563824" GROUP Automated_Driving_Toolbox_NNU_2025b
+INCLUDE "Compiler:asset_info=563824" GROUP Compiler_NNU_2025b
+INCLUDE "Control_Toolbox:asset_info=563824" GROUP Control_Toolbox_NNU_2025b
+INCLUDE "EDA_Simulator_Link:asset_info=563824" GROUP EDA_Simulator_Link_NNU_2025b
+INCLUDE "Fixed_Point_Toolbox:asset_info=563824" GROUP Fixed_Point_Toolbox_NNU_2025b
+INCLUDE "Fuzzy_Toolbox:asset_info=563824" GROUP Fuzzy_Toolbox_NNU_2025b
+INCLUDE "Identification_Toolbox:asset_info=563824" GROUP Identification_Toolbox_NNU_2025b
+INCLUDE "Image_Acquisition_Toolbox:asset_info=563824" GROUP Image_Acquisition_Toolbox_NNU_2025b
+INCLUDE "Image_Toolbox:asset_info=563824" GROUP Image_Toolbox_NNU_2025b
+INCLUDE "Instr_Control_Toolbox:asset_info=563824" GROUP Instr_Control_Toolbox_NNU_2025b
+INCLUDE "MATLAB:asset_info=563824" GROUP MATLAB_NNU_2025b
+INCLUDE "MATLAB_Builder_for_Java:asset_info=563824" GROUP MATLAB_Builder_for_Java_NNU_2025b
+INCLUDE "MATLAB_Coder:asset_info=563824" GROUP MATLAB_Coder_NNU_2025b
+INCLUDE "MATLAB_Report_Gen:asset_info=563824" GROUP MATLAB_Report_Gen_NNU_2025b
+INCLUDE "Navigation_Toolbox:asset_info=563824" GROUP Navigation_Toolbox_NNU_2025b
+INCLUDE "Neural_Network_Toolbox:asset_info=563824" GROUP Neural_Network_Toolbox_NNU_2025b
+INCLUDE "Optimization_Toolbox:asset_info=563824" GROUP Optimization_Toolbox_NNU_2025b
+INCLUDE "Power_System_Blocks:asset_info=563824" GROUP Power_System_Blocks_NNU_2025b
+INCLUDE "ROS_Toolbox:asset_info=563824" GROUP ROS_Toolbox_NNU_2025b
+INCLUDE "RTW_Embedded_Coder:asset_info=563824" GROUP RTW_Embedded_Coder_NNU_2025b
+INCLUDE "Real-Time_Workshop:asset_info=563824" GROUP Real-Time_Workshop_NNU_2025b
+INCLUDE "SIMULINK:asset_info=563824" GROUP SIMULINK_NNU_2025b
+INCLUDE "SIMULINK_Report_Gen:asset_info=563824" GROUP SIMULINK_Report_Gen_NNU_2025b
+INCLUDE "Signal_Toolbox:asset_info=563824" GROUP Signal_Toolbox_NNU_2025b
+INCLUDE "SimMechanics:asset_info=563824" GROUP SimMechanics_NNU_2025b
+INCLUDE "Simscape:asset_info=563824" GROUP Simscape_NNU_2025b
+INCLUDE "Simulink_Compiler:asset_info=563824" GROUP Simulink_Compiler_NNU_2025b
+INCLUDE "Simulink_Control_Design:asset_info=563824" GROUP Simulink_Control_Design_NNU_2025b
+INCLUDE "Simulink_Coverage:asset_info=563824" GROUP Simulink_Coverage_NNU_2025b
+INCLUDE "Simulink_Requirements:asset_info=563824" GROUP Simulink_Requirements_NNU_2025b
+INCLUDE "Simulink_Test:asset_info=563824" GROUP Simulink_Test_NNU_2025b
+INCLUDE "Stateflow:asset_info=563824" GROUP Stateflow_NNU_2025b
+INCLUDE "Vehicle_Network_Toolbox:asset_info=563824" GROUP Vehicle_Network_Toolbox_NNU_2025b
+INCLUDE "Video_and_Image_Blockset:asset_info=563824" GROUP Video_and_Image_Blockset_NNU_2025b
+INCLUDE "XPC_Target:asset_info=563824" GROUP XPC_Target_NNU_2025b
+
+# R2024B
+INCLUDE "MATLAB:asset_info=563824_R2024b" GROUP MATLAB_NNU_2024b
+INCLUDE "SIMULINK:asset_info=563824_R2024b" GROUP SIMULINK_NNU_2024b
+INCLUDE "Stateflow:asset_info=563824_R2024b" GROUP Stateflow_NNU_2024b
+
+# R2023B
+INCLUDE "C2000_Blockset:asset_info=563824" GROUP C2000_Blockset_NNU_2023b
+INCLUDE "Fuzzy_Toolbox:asset_info=563824_R2023b" GROUP Fuzzy_Toolbox_NNU_2023b
+INCLUDE "Image_Acquisition_Toolbox:asset_info=563824_R2023b" GROUP Image_Acquisition_Toolbox_NNU_2023b
+INCLUDE "Image_Toolbox:asset_info=563824_R2023b" GROUP Image_Toolbox_NNU_2023b
+INCLUDE "Neural_Network_Toolbox:asset_info=563824_R2023b" GROUP Neural_Network_Toolbox_NNU_2023b
+INCLUDE "Statistics_Toolbox:asset_info=563824" GROUP Statistics_Toolbox_NNU_2023b
+INCLUDE "Video_and_Image_Blockset:asset_info=563824_R2023b" GROUP Video_and_Image_Blockset_NNU_2023b
+
+# R2022B
+INCLUDE "Fixed_Point_Toolbox:asset_info=563824_R2022b" GROUP Fixed_Point_Toolbox_NNU_2022b
+INCLUDE "MATLAB:asset_info=563824_R2022b" GROUP MATLAB_NNU_2022b
+INCLUDE "Power_System_Blocks:asset_info=563824_R2022b" GROUP Power_System_Blocks_NNU_2022b
+INCLUDE "SIMULINK:asset_info=563824_R2022b" GROUP SIMULINK_NNU_2022b
+INCLUDE "Simscape:asset_info=563824_R2022b" GROUP Simscape_NNU_2022b
+INCLUDE "Stateflow:asset_info=563824_R2022b" GROUP Stateflow_NNU_2022b
+
+# R2020A
+INCLUDE "Robotics_System_Toolbox:asset_info=563824" GROUP Robotics_System_Toolbox_NNU_2020a
+
+# R2012B
+INCLUDE "Fixed-Point_Blocks:asset_info=563824" GROUP Fixed-Point_Blocks_NNU_2012b
+
+# R2010B
+INCLUDE "Stateflow_Coder:asset_info=563824" GROUP Stateflow_Coder_NNU_2010b
+
+# License 40969865
+
+# R2025B
+INCLUDE "MATLAB:asset_info=40969865" GROUP MATLAB_NNU_2025b
+INCLUDE "SIMULINK:asset_info=40969865" GROUP SIMULINK_NNU_2025b
+
+# R2024B
+INCLUDE "Control_Toolbox:asset_info=40969865" GROUP Control_Toolbox_NNU_2024b
+INCLUDE "Curve_Fitting_Toolbox:asset_info=40969865" GROUP Curve_Fitting_Toolbox_NNU_2024b
+INCLUDE "Distrib_Computing_Toolbox:asset_info=40969865" GROUP Distrib_Computing_Toolbox_NNU_2024b
+INCLUDE "Fuzzy_Toolbox:asset_info=40969865" GROUP Fuzzy_Toolbox_NNU_2024b
+INCLUDE "Instr_Control_Toolbox:asset_info=40969865" GROUP Instr_Control_Toolbox_NNU_2024b
+INCLUDE "MATLAB:asset_info=40969865_R2024b" GROUP MATLAB_NNU_2024b
+INCLUDE "MATLAB_Coder:asset_info=40969865" GROUP MATLAB_Coder_NNU_2024b
+INCLUDE "OPC_Toolbox:asset_info=40969865" GROUP OPC_Toolbox_NNU_2024b
+INCLUDE "Optimization_Toolbox:asset_info=40969865" GROUP Optimization_Toolbox_NNU_2024b
+INCLUDE "RTW_Embedded_Coder:asset_info=40969865" GROUP RTW_Embedded_Coder_NNU_2024b
+INCLUDE "Real-Time_Workshop:asset_info=40969865" GROUP Real-Time_Workshop_NNU_2024b
+INCLUDE "SIMULINK:asset_info=40969865_R2024b" GROUP SIMULINK_NNU_2024b
+INCLUDE "Stateflow:asset_info=40969865" GROUP Stateflow_NNU_2024b
+INCLUDE "Symbolic_Toolbox:asset_info=40969865" GROUP Symbolic_Toolbox_NNU_2024b
+
+# R2023B
+INCLUDE "Control_Toolbox:asset_info=40969865_R2023b" GROUP Control_Toolbox_NNU_2023b
+INCLUDE "Curve_Fitting_Toolbox:asset_info=40969865_R2023b" GROUP Curve_Fitting_Toolbox_NNU_2023b
+INCLUDE "Excel_Link:asset_info=40969865" GROUP Excel_Link_NNU_2023b
+INCLUDE "MATLAB_Coder:asset_info=40969865_R2023b" GROUP MATLAB_Coder_NNU_2023b
+INCLUDE "Optimization_Toolbox:asset_info=40969865_R2023b" GROUP Optimization_Toolbox_NNU_2023b
+INCLUDE "Real-Time_Workshop:asset_info=40969865_R2023b" GROUP Real-Time_Workshop_NNU_2023b
+INCLUDE "SIMULINK:asset_info=40969865_R2023b" GROUP SIMULINK_NNU_2023b
+
+# License 708692
+
+# R2025B
+INCLUDE "Control_Toolbox:asset_info=708692" GROUP Control_Toolbox_NNU_2025b
+INCLUDE "MATLAB:asset_info=708692" GROUP MATLAB_NNU_2025b
+INCLUDE "MATLAB_Coder:asset_info=708692" GROUP MATLAB_Coder_NNU_2025b
+INCLUDE "Optimization_Toolbox:asset_info=708692" GROUP Optimization_Toolbox_NNU_2025b
+INCLUDE "Real-Time_Workshop:asset_info=708692" GROUP Real-Time_Workshop_NNU_2025b
+INCLUDE "SIMULINK:asset_info=708692" GROUP SIMULINK_NNU_2025b
+
+# R2022B
+INCLUDE "Robust_Toolbox:asset_info=708692" GROUP Robust_Toolbox_NNU_2022b
+
+# License 40712229
+
+# R2019B
+INCLUDE "AUTOSAR_Blockset:asset_info=40712229" GROUP AUTOSAR_Blockset_NNU_2019b
+INCLUDE "Compiler:asset_info=40712229" GROUP Compiler_NNU_2019b
+INCLUDE "Control_Toolbox:asset_info=40712229" GROUP Control_Toolbox_NNU_2019b
+INCLUDE "Curve_Fitting_Toolbox:asset_info=40712229" GROUP Curve_Fitting_Toolbox_NNU_2019b
+INCLUDE "Fixed_Point_Toolbox:asset_info=40712229" GROUP Fixed_Point_Toolbox_NNU_2019b
+INCLUDE "Identification_Toolbox:asset_info=40712229" GROUP Identification_Toolbox_NNU_2019b
+INCLUDE "MATLAB:asset_info=40712229" GROUP MATLAB_NNU_2019b
+INCLUDE "MATLAB_Builder_for_Java:asset_info=40712229" GROUP MATLAB_Builder_for_Java_NNU_2019b
+INCLUDE "Optimization_Toolbox:asset_info=40712229" GROUP Optimization_Toolbox_NNU_2019b
+INCLUDE "Robust_Toolbox:asset_info=40712229" GROUP Robust_Toolbox_NNU_2019b
+INCLUDE "SIMULINK:asset_info=40712229" GROUP SIMULINK_NNU_2019b
+INCLUDE "SL_Verification_Validation:asset_info=40712229" GROUP SL_Verification_Validation_NNU_2019b
+INCLUDE "Simulink_Coverage:asset_info=40712229" GROUP Simulink_Coverage_NNU_2019b
+INCLUDE "Simulink_Requirements:asset_info=40712229" GROUP Simulink_Requirements_NNU_2019b
+INCLUDE "Stateflow:asset_info=40712229" GROUP Stateflow_NNU_2019b
+
+# License 846059
+# (includes Polyspace from 40799861 and 40945585)
+# MATLAB/SIMULINK
+INCLUDE "MATLAB:asset_info=846059" GROUP MATLABSIMULINK_FLOATING_846059
+INCLUDE "SIMULINK:asset_info=846059" GROUP MATLABSIMULINK_FLOATING_846059
+# Other Toolboxes
+INCLUDE "AUTOSAR_Blockset:asset_info=846059" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "C2000_Blockset:asset_info=846059" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "Cert_Kit_IEC:asset_info=846059" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "Compiler:asset_info=846059" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "Control_Toolbox:asset_info=846059" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "DSP_HDL_Toolbox:asset_info=846059" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "Fixed_Point_Toolbox:asset_info=846059" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "MATLAB_Builder_for_Java:asset_info=846059" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "MATLAB_Coder:asset_info=846059" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "Neural_Network_Toolbox:asset_info=846059" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "Optimization_Toolbox:asset_info=846059" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "PolySpace_Bug_Finder:asset_info=846059" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "PolySpace_Bug_Finder_Engine:asset_info=846059" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "PolySpace_Server_C_CPP:asset_info=846059" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "Polyspace_BF:asset_info=40799861" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "Polyspace_BF_Engine:asset_info=40799861" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "Polyspace_BF_Server:asset_info=40945585" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "Polyspace_CP:asset_info=40799861" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "Polyspace_CP_Server:asset_info=40945585" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "Power_System_Blocks:asset_info=846059" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "RTW_Embedded_Coder:asset_info=846059" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "Real-Time_Workshop:asset_info=846059" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "SL_Verification_Validation:asset_info=846059" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "Signal_Blocks:asset_info=846059" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "Signal_Toolbox:asset_info=846059" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "SimHydraulics:asset_info=846059" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "Simscape:asset_info=846059" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "Simulink_Coverage:asset_info=846059" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "Simulink_Design_Verifier:asset_info=846059" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "Simulink_HDL_Coder:asset_info=846059" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "Simulink_Requirements:asset_info=846059" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "Stateflow:asset_info=846059" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "Statistics_Toolbox:asset_info=846059" GROUP OTHERTOOLBOXES_FLOATING_846059
+INCLUDE "Vehicle_Network_Toolbox:asset_info=846059" GROUP OTHERTOOLBOXES_FLOATING_846059
+
+# License 1093637
+# MATLAB/SIMULINK
+INCLUDE "MATLAB:asset_info=1093637" GROUP MATLABSIMULINK_FLOATING_1093637
+INCLUDE "SIMULINK:asset_info=1093637" GROUP MATLABSIMULINK_FLOATING_1093637
+# Other Toolboxes
+INCLUDE "Control_Toolbox:asset_info=1093637" GROUP OTHERTOOLBOXES_FLOATING_1093637
+INCLUDE "Identification_Toolbox:asset_info=1093637" GROUP OTHERTOOLBOXES_FLOATING_1093637
+INCLUDE "Signal_Blocks:asset_info=1093637" GROUP OTHERTOOLBOXES_FLOATING_1093637
+INCLUDE "Signal_Toolbox:asset_info=1093637" GROUP OTHERTOOLBOXES_FLOATING_1093637
+INCLUDE "Simscape:asset_info=1093637" GROUP OTHERTOOLBOXES_FLOATING_1093637
+INCLUDE "Simulink_Control_Design:asset_info=1093637" GROUP OTHERTOOLBOXES_FLOATING_1093637
+INCLUDE "Simulink_Coverage:asset_info=1093637" GROUP OTHERTOOLBOXES_FLOATING_1093637
+INCLUDE "Symbolic_Toolbox:asset_info=1093637" GROUP OTHERTOOLBOXES_FLOATING_1093637
+
+# License 41296740 - Global Floating (Not Invoiced CN)
+INCLUDE "AUTOSAR_Blockset:asset_info=41296740" GROUP GLOBAL_FLOATING
+INCLUDE "Fixed_Point_Toolbox:asset_info=41296740" GROUP GLOBAL_FLOATING
+INCLUDE "MATLAB:asset_info=41296740" GROUP GLOBAL_FLOATING
+INCLUDE "MATLAB_Coder:asset_info=41296740" GROUP GLOBAL_FLOATING
+INCLUDE "RTW_Embedded_Coder:asset_info=41296740" GROUP GLOBAL_FLOATING
+INCLUDE "Real-Time_Workshop:asset_info=41296740" GROUP GLOBAL_FLOATING
+INCLUDE "SIMULINK:asset_info=41296740" GROUP GLOBAL_FLOATING
+INCLUDE "Simulink_Coverage:asset_info=41296740" GROUP GLOBAL_FLOATING
+INCLUDE "Stateflow:asset_info=41296740" GROUP GLOBAL_FLOATING
+
+# License 40591459
+
+# R2025B
+INCLUDE "MATLAB:asset_info=40591459" GROUP MATLAB_NNU_40591459_2025b
+INCLUDE "Optimization_Toolbox:asset_info=40591459" GROUP Optimization_Toolbox_NNU_40591459_2025b
+INCLUDE "SIMULINK:asset_info=40591459" GROUP SIMULINK_NNU_40591459_2025b
+INCLUDE "Stateflow:asset_info=40591459" GROUP Stateflow_NNU_40591459_2025b
+
+# License 40862198
+
+# R2025B
+INCLUDE "MATLAB:asset_info=40862198" GROUP MATLAB_NNU_40862198_2025b
+INCLUDE "SIMULINK:asset_info=40862198" GROUP SIMULINK_NNU_40862198_2025b
+INCLUDE "Stateflow:asset_info=40862198" GROUP Stateflow_NNU_40862198_2025b
+
+# License 41033057
+
+# R2022B
+INCLUDE "MATLAB:asset_info=41033057" GROUP MATLAB_NNU_41033057_2022b
+INCLUDE "SIMULINK:asset_info=41033057" GROUP SIMULINK_NNU_41033057_2022b
+INCLUDE "Stateflow:asset_info=41033057" GROUP Stateflow_NNU_41033057_2022b
+
+# License 41134453 - Floating
+# MATLAB/SIMULINK
+INCLUDE "MATLAB:asset_info=41134453" GROUP MATLABSIMULINK_FLOATING_41134453
+INCLUDE "SIMULINK:asset_info=41134453" GROUP MATLABSIMULINK_FLOATING_41134453
+# Other Toolboxes
+INCLUDE "AUTOSAR_Blockset:asset_info=41134453" GROUP OTHERTOOLBOXES_FLOATING_41134453
+INCLUDE "Fixed_Point_Toolbox:asset_info=41134453" GROUP OTHERTOOLBOXES_FLOATING_41134453
+INCLUDE "MATLAB_Coder:asset_info=41134453" GROUP OTHERTOOLBOXES_FLOATING_41134453
+INCLUDE "RTW_Embedded_Coder:asset_info=41134453" GROUP OTHERTOOLBOXES_FLOATING_41134453
+INCLUDE "Real-Time_Workshop:asset_info=41134453" GROUP OTHERTOOLBOXES_FLOATING_41134453
+INCLUDE "SL_Verification_Validation:asset_info=41134453" GROUP OTHERTOOLBOXES_FLOATING_41134453
+INCLUDE "Simulink_Coverage:asset_info=41134453" GROUP OTHERTOOLBOXES_FLOATING_41134453
+INCLUDE "Stateflow:asset_info=41134453" GROUP OTHERTOOLBOXES_FLOATING_41134453
+
+
+########################################################################
+###        EXCLUDE SECTION                                        ######
+########################################################################
+
+# Exclude floating licenses from NNU groups
+
+# Exclude AUTOSAR_Blockset floating licenses from NNU groups
+EXCLUDE "AUTOSAR_Blockset:asset_info=41134453" GROUP AUTOSAR_Blockset_NNU_2019b
+EXCLUDE "AUTOSAR_Blockset:asset_info=41134453" GROUP AUTOSAR_Blockset_NNU_2025b
+EXCLUDE "AUTOSAR_Blockset:asset_info=41296740" GROUP AUTOSAR_Blockset_NNU_2019b
+EXCLUDE "AUTOSAR_Blockset:asset_info=41296740" GROUP AUTOSAR_Blockset_NNU_2025b
+EXCLUDE "AUTOSAR_Blockset:asset_info=846059" GROUP AUTOSAR_Blockset_NNU_2019b
+EXCLUDE "AUTOSAR_Blockset:asset_info=846059" GROUP AUTOSAR_Blockset_NNU_2025b
+
+# Exclude C2000_Blockset floating licenses from NNU groups
+EXCLUDE "C2000_Blockset:asset_info=846059" GROUP C2000_Blockset_NNU_2023b
+
+# Exclude Compiler floating licenses from NNU groups
+EXCLUDE "Compiler:asset_info=846059" GROUP Compiler_NNU_2019b
+EXCLUDE "Compiler:asset_info=846059" GROUP Compiler_NNU_2025b
+
+# Exclude Control_Toolbox floating licenses from NNU groups
+EXCLUDE "Control_Toolbox:asset_info=1093637" GROUP Control_Toolbox_NNU_2019b
+EXCLUDE "Control_Toolbox:asset_info=1093637" GROUP Control_Toolbox_NNU_2023b
+EXCLUDE "Control_Toolbox:asset_info=1093637" GROUP Control_Toolbox_NNU_2024b
+EXCLUDE "Control_Toolbox:asset_info=1093637" GROUP Control_Toolbox_NNU_2025b
+EXCLUDE "Control_Toolbox:asset_info=846059" GROUP Control_Toolbox_NNU_2019b
+EXCLUDE "Control_Toolbox:asset_info=846059" GROUP Control_Toolbox_NNU_2023b
+EXCLUDE "Control_Toolbox:asset_info=846059" GROUP Control_Toolbox_NNU_2024b
+EXCLUDE "Control_Toolbox:asset_info=846059" GROUP Control_Toolbox_NNU_2025b
+
+# Exclude Fixed_Point_Toolbox floating licenses from NNU groups
+EXCLUDE "Fixed_Point_Toolbox:asset_info=41134453" GROUP Fixed_Point_Toolbox_NNU_2019b
+EXCLUDE "Fixed_Point_Toolbox:asset_info=41134453" GROUP Fixed_Point_Toolbox_NNU_2022b
+EXCLUDE "Fixed_Point_Toolbox:asset_info=41134453" GROUP Fixed_Point_Toolbox_NNU_2025b
+EXCLUDE "Fixed_Point_Toolbox:asset_info=41296740" GROUP Fixed_Point_Toolbox_NNU_2019b
+EXCLUDE "Fixed_Point_Toolbox:asset_info=41296740" GROUP Fixed_Point_Toolbox_NNU_2022b
+EXCLUDE "Fixed_Point_Toolbox:asset_info=41296740" GROUP Fixed_Point_Toolbox_NNU_2025b
+EXCLUDE "Fixed_Point_Toolbox:asset_info=846059" GROUP Fixed_Point_Toolbox_NNU_2019b
+EXCLUDE "Fixed_Point_Toolbox:asset_info=846059" GROUP Fixed_Point_Toolbox_NNU_2022b
+EXCLUDE "Fixed_Point_Toolbox:asset_info=846059" GROUP Fixed_Point_Toolbox_NNU_2025b
+
+# Exclude Identification_Toolbox floating licenses from NNU groups
+EXCLUDE "Identification_Toolbox:asset_info=1093637" GROUP Identification_Toolbox_NNU_2019b
+EXCLUDE "Identification_Toolbox:asset_info=1093637" GROUP Identification_Toolbox_NNU_2025b
+
+# Exclude MATLAB floating licenses from NNU groups
+EXCLUDE "MATLAB:asset_info=1093637" GROUP MATLAB_NNU_2019b
+EXCLUDE "MATLAB:asset_info=1093637" GROUP MATLAB_NNU_2022b
+EXCLUDE "MATLAB:asset_info=1093637" GROUP MATLAB_NNU_2024b
+EXCLUDE "MATLAB:asset_info=1093637" GROUP MATLAB_NNU_2025b
+EXCLUDE "MATLAB:asset_info=1093637" GROUP MATLAB_NNU_40591459_2025b
+EXCLUDE "MATLAB:asset_info=1093637" GROUP MATLAB_NNU_40862198_2025b
+EXCLUDE "MATLAB:asset_info=1093637" GROUP MATLAB_NNU_41033057_2022b
+EXCLUDE "MATLAB:asset_info=1093637_R2024b" GROUP MATLAB_NNU_2019b
+EXCLUDE "MATLAB:asset_info=1093637_R2024b" GROUP MATLAB_NNU_2022b
+EXCLUDE "MATLAB:asset_info=1093637_R2024b" GROUP MATLAB_NNU_2024b
+EXCLUDE "MATLAB:asset_info=1093637_R2024b" GROUP MATLAB_NNU_2025b
+EXCLUDE "MATLAB:asset_info=1093637_R2024b" GROUP MATLAB_NNU_40591459_2025b
+EXCLUDE "MATLAB:asset_info=1093637_R2024b" GROUP MATLAB_NNU_40862198_2025b
+EXCLUDE "MATLAB:asset_info=1093637_R2024b" GROUP MATLAB_NNU_41033057_2022b
+EXCLUDE "MATLAB:asset_info=41134453" GROUP MATLAB_NNU_2019b
+EXCLUDE "MATLAB:asset_info=41134453" GROUP MATLAB_NNU_2022b
+EXCLUDE "MATLAB:asset_info=41134453" GROUP MATLAB_NNU_2024b
+EXCLUDE "MATLAB:asset_info=41134453" GROUP MATLAB_NNU_2025b
+EXCLUDE "MATLAB:asset_info=41134453" GROUP MATLAB_NNU_40591459_2025b
+EXCLUDE "MATLAB:asset_info=41134453" GROUP MATLAB_NNU_40862198_2025b
+EXCLUDE "MATLAB:asset_info=41134453" GROUP MATLAB_NNU_41033057_2022b
+EXCLUDE "MATLAB:asset_info=41296740" GROUP MATLAB_NNU_2019b
+EXCLUDE "MATLAB:asset_info=41296740" GROUP MATLAB_NNU_2022b
+EXCLUDE "MATLAB:asset_info=41296740" GROUP MATLAB_NNU_2024b
+EXCLUDE "MATLAB:asset_info=41296740" GROUP MATLAB_NNU_2025b
+EXCLUDE "MATLAB:asset_info=41296740" GROUP MATLAB_NNU_40591459_2025b
+EXCLUDE "MATLAB:asset_info=41296740" GROUP MATLAB_NNU_40862198_2025b
+EXCLUDE "MATLAB:asset_info=41296740" GROUP MATLAB_NNU_41033057_2022b
+EXCLUDE "MATLAB:asset_info=846059" GROUP MATLAB_NNU_2019b
+EXCLUDE "MATLAB:asset_info=846059" GROUP MATLAB_NNU_2022b
+EXCLUDE "MATLAB:asset_info=846059" GROUP MATLAB_NNU_2024b
+EXCLUDE "MATLAB:asset_info=846059" GROUP MATLAB_NNU_2025b
+EXCLUDE "MATLAB:asset_info=846059" GROUP MATLAB_NNU_40591459_2025b
+EXCLUDE "MATLAB:asset_info=846059" GROUP MATLAB_NNU_40862198_2025b
+EXCLUDE "MATLAB:asset_info=846059" GROUP MATLAB_NNU_41033057_2022b
+
+# Exclude MATLAB_Builder_for_Java floating licenses from NNU groups
+EXCLUDE "MATLAB_Builder_for_Java:asset_info=846059" GROUP MATLAB_Builder_for_Java_NNU_2019b
+EXCLUDE "MATLAB_Builder_for_Java:asset_info=846059" GROUP MATLAB_Builder_for_Java_NNU_2025b
+
+# Exclude MATLAB_Coder floating licenses from NNU groups
+EXCLUDE "MATLAB_Coder:asset_info=41134453" GROUP MATLAB_Coder_NNU_2023b
+EXCLUDE "MATLAB_Coder:asset_info=41134453" GROUP MATLAB_Coder_NNU_2024b
+EXCLUDE "MATLAB_Coder:asset_info=41134453" GROUP MATLAB_Coder_NNU_2025b
+EXCLUDE "MATLAB_Coder:asset_info=41296740" GROUP MATLAB_Coder_NNU_2023b
+EXCLUDE "MATLAB_Coder:asset_info=41296740" GROUP MATLAB_Coder_NNU_2024b
+EXCLUDE "MATLAB_Coder:asset_info=41296740" GROUP MATLAB_Coder_NNU_2025b
+EXCLUDE "MATLAB_Coder:asset_info=846059" GROUP MATLAB_Coder_NNU_2023b
+EXCLUDE "MATLAB_Coder:asset_info=846059" GROUP MATLAB_Coder_NNU_2024b
+EXCLUDE "MATLAB_Coder:asset_info=846059" GROUP MATLAB_Coder_NNU_2025b
+
+# Exclude Neural_Network_Toolbox floating licenses from NNU groups
+EXCLUDE "Neural_Network_Toolbox:asset_info=846059" GROUP Neural_Network_Toolbox_NNU_2023b
+EXCLUDE "Neural_Network_Toolbox:asset_info=846059" GROUP Neural_Network_Toolbox_NNU_2025b
+
+# Exclude Optimization_Toolbox floating licenses from NNU groups
+EXCLUDE "Optimization_Toolbox:asset_info=846059" GROUP Optimization_Toolbox_NNU_2019b
+EXCLUDE "Optimization_Toolbox:asset_info=846059" GROUP Optimization_Toolbox_NNU_2023b
+EXCLUDE "Optimization_Toolbox:asset_info=846059" GROUP Optimization_Toolbox_NNU_2024b
+EXCLUDE "Optimization_Toolbox:asset_info=846059" GROUP Optimization_Toolbox_NNU_2025b
+EXCLUDE "Optimization_Toolbox:asset_info=846059" GROUP Optimization_Toolbox_NNU_40591459_2025b
+
+# Exclude Power_System_Blocks floating licenses from NNU groups
+EXCLUDE "Power_System_Blocks:asset_info=846059" GROUP Power_System_Blocks_NNU_2022b
+EXCLUDE "Power_System_Blocks:asset_info=846059" GROUP Power_System_Blocks_NNU_2025b
+
+# Exclude RTW_Embedded_Coder floating licenses from NNU groups
+EXCLUDE "RTW_Embedded_Coder:asset_info=41134453" GROUP RTW_Embedded_Coder_NNU_2024b
+EXCLUDE "RTW_Embedded_Coder:asset_info=41134453" GROUP RTW_Embedded_Coder_NNU_2025b
+EXCLUDE "RTW_Embedded_Coder:asset_info=41296740" GROUP RTW_Embedded_Coder_NNU_2024b
+EXCLUDE "RTW_Embedded_Coder:asset_info=41296740" GROUP RTW_Embedded_Coder_NNU_2025b
+EXCLUDE "RTW_Embedded_Coder:asset_info=846059" GROUP RTW_Embedded_Coder_NNU_2024b
+EXCLUDE "RTW_Embedded_Coder:asset_info=846059" GROUP RTW_Embedded_Coder_NNU_2025b
+
+# Exclude Real-Time_Workshop floating licenses from NNU groups
+EXCLUDE "Real-Time_Workshop:asset_info=41134453" GROUP Real-Time_Workshop_NNU_2023b
+EXCLUDE "Real-Time_Workshop:asset_info=41134453" GROUP Real-Time_Workshop_NNU_2024b
+EXCLUDE "Real-Time_Workshop:asset_info=41134453" GROUP Real-Time_Workshop_NNU_2025b
+EXCLUDE "Real-Time_Workshop:asset_info=41296740" GROUP Real-Time_Workshop_NNU_2023b
+EXCLUDE "Real-Time_Workshop:asset_info=41296740" GROUP Real-Time_Workshop_NNU_2024b
+EXCLUDE "Real-Time_Workshop:asset_info=41296740" GROUP Real-Time_Workshop_NNU_2025b
+EXCLUDE "Real-Time_Workshop:asset_info=846059" GROUP Real-Time_Workshop_NNU_2023b
+EXCLUDE "Real-Time_Workshop:asset_info=846059" GROUP Real-Time_Workshop_NNU_2024b
+EXCLUDE "Real-Time_Workshop:asset_info=846059" GROUP Real-Time_Workshop_NNU_2025b
+
+# Exclude SIMULINK floating licenses from NNU groups
+EXCLUDE "SIMULINK:asset_info=1093637" GROUP SIMULINK_NNU_2019b
+EXCLUDE "SIMULINK:asset_info=1093637" GROUP SIMULINK_NNU_2022b
+EXCLUDE "SIMULINK:asset_info=1093637" GROUP SIMULINK_NNU_2023b
+EXCLUDE "SIMULINK:asset_info=1093637" GROUP SIMULINK_NNU_2024b
+EXCLUDE "SIMULINK:asset_info=1093637" GROUP SIMULINK_NNU_2025b
+EXCLUDE "SIMULINK:asset_info=1093637" GROUP SIMULINK_NNU_40591459_2025b
+EXCLUDE "SIMULINK:asset_info=1093637" GROUP SIMULINK_NNU_40862198_2025b
+EXCLUDE "SIMULINK:asset_info=1093637" GROUP SIMULINK_NNU_41033057_2022b
+EXCLUDE "SIMULINK:asset_info=41134453" GROUP SIMULINK_NNU_2019b
+EXCLUDE "SIMULINK:asset_info=41134453" GROUP SIMULINK_NNU_2022b
+EXCLUDE "SIMULINK:asset_info=41134453" GROUP SIMULINK_NNU_2023b
+EXCLUDE "SIMULINK:asset_info=41134453" GROUP SIMULINK_NNU_2024b
+EXCLUDE "SIMULINK:asset_info=41134453" GROUP SIMULINK_NNU_2025b
+EXCLUDE "SIMULINK:asset_info=41134453" GROUP SIMULINK_NNU_40591459_2025b
+EXCLUDE "SIMULINK:asset_info=41134453" GROUP SIMULINK_NNU_40862198_2025b
+EXCLUDE "SIMULINK:asset_info=41134453" GROUP SIMULINK_NNU_41033057_2022b
+EXCLUDE "SIMULINK:asset_info=41296740" GROUP SIMULINK_NNU_2019b
+EXCLUDE "SIMULINK:asset_info=41296740" GROUP SIMULINK_NNU_2022b
+EXCLUDE "SIMULINK:asset_info=41296740" GROUP SIMULINK_NNU_2023b
+EXCLUDE "SIMULINK:asset_info=41296740" GROUP SIMULINK_NNU_2024b
+EXCLUDE "SIMULINK:asset_info=41296740" GROUP SIMULINK_NNU_2025b
+EXCLUDE "SIMULINK:asset_info=41296740" GROUP SIMULINK_NNU_40591459_2025b
+EXCLUDE "SIMULINK:asset_info=41296740" GROUP SIMULINK_NNU_40862198_2025b
+EXCLUDE "SIMULINK:asset_info=41296740" GROUP SIMULINK_NNU_41033057_2022b
+EXCLUDE "SIMULINK:asset_info=846059" GROUP SIMULINK_NNU_2019b
+EXCLUDE "SIMULINK:asset_info=846059" GROUP SIMULINK_NNU_2022b
+EXCLUDE "SIMULINK:asset_info=846059" GROUP SIMULINK_NNU_2023b
+EXCLUDE "SIMULINK:asset_info=846059" GROUP SIMULINK_NNU_2024b
+EXCLUDE "SIMULINK:asset_info=846059" GROUP SIMULINK_NNU_2025b
+EXCLUDE "SIMULINK:asset_info=846059" GROUP SIMULINK_NNU_40591459_2025b
+EXCLUDE "SIMULINK:asset_info=846059" GROUP SIMULINK_NNU_40862198_2025b
+EXCLUDE "SIMULINK:asset_info=846059" GROUP SIMULINK_NNU_41033057_2022b
+
+# Exclude SL_Verification_Validation floating licenses from NNU groups
+EXCLUDE "SL_Verification_Validation:asset_info=41134453" GROUP SL_Verification_Validation_NNU_2019b
+EXCLUDE "SL_Verification_Validation:asset_info=846059" GROUP SL_Verification_Validation_NNU_2019b
+EXCLUDE "SL_Verification_Validation:asset_info=846059_R2019b" GROUP SL_Verification_Validation_NNU_2019b
+
+# Exclude Signal_Toolbox floating licenses from NNU groups
+EXCLUDE "Signal_Toolbox:asset_info=1093637" GROUP Signal_Toolbox_NNU_2025b
+EXCLUDE "Signal_Toolbox:asset_info=846059" GROUP Signal_Toolbox_NNU_2025b
+
+# Exclude Simscape floating licenses from NNU groups
+EXCLUDE "Simscape:asset_info=1093637" GROUP Simscape_NNU_2022b
+EXCLUDE "Simscape:asset_info=1093637" GROUP Simscape_NNU_2025b
+EXCLUDE "Simscape:asset_info=846059" GROUP Simscape_NNU_2022b
+EXCLUDE "Simscape:asset_info=846059" GROUP Simscape_NNU_2025b
+
+# Exclude Simulink_Control_Design floating licenses from NNU groups
+EXCLUDE "Simulink_Control_Design:asset_info=1093637" GROUP Simulink_Control_Design_NNU_2025b
+
+# Exclude Simulink_Coverage floating licenses from NNU groups
+EXCLUDE "Simulink_Coverage:asset_info=1093637" GROUP Simulink_Coverage_NNU_2019b
+EXCLUDE "Simulink_Coverage:asset_info=1093637" GROUP Simulink_Coverage_NNU_2025b
+EXCLUDE "Simulink_Coverage:asset_info=41134453" GROUP Simulink_Coverage_NNU_2019b
+EXCLUDE "Simulink_Coverage:asset_info=41134453" GROUP Simulink_Coverage_NNU_2025b
+EXCLUDE "Simulink_Coverage:asset_info=41296740" GROUP Simulink_Coverage_NNU_2019b
+EXCLUDE "Simulink_Coverage:asset_info=41296740" GROUP Simulink_Coverage_NNU_2025b
+EXCLUDE "Simulink_Coverage:asset_info=846059" GROUP Simulink_Coverage_NNU_2019b
+EXCLUDE "Simulink_Coverage:asset_info=846059" GROUP Simulink_Coverage_NNU_2025b
+
+# Exclude Simulink_Requirements floating licenses from NNU groups
+EXCLUDE "Simulink_Requirements:asset_info=846059" GROUP Simulink_Requirements_NNU_2019b
+EXCLUDE "Simulink_Requirements:asset_info=846059" GROUP Simulink_Requirements_NNU_2025b
+EXCLUDE "Simulink_Requirements:asset_info=846059_R2019b" GROUP Simulink_Requirements_NNU_2019b
+EXCLUDE "Simulink_Requirements:asset_info=846059_R2019b" GROUP Simulink_Requirements_NNU_2025b
+
+# Exclude Stateflow floating licenses from NNU groups
+EXCLUDE "Stateflow:asset_info=41134453" GROUP Stateflow_NNU_2019b
+EXCLUDE "Stateflow:asset_info=41134453" GROUP Stateflow_NNU_2022b
+EXCLUDE "Stateflow:asset_info=41134453" GROUP Stateflow_NNU_2024b
+EXCLUDE "Stateflow:asset_info=41134453" GROUP Stateflow_NNU_2025b
+EXCLUDE "Stateflow:asset_info=41134453" GROUP Stateflow_NNU_40591459_2025b
+EXCLUDE "Stateflow:asset_info=41134453" GROUP Stateflow_NNU_40862198_2025b
+EXCLUDE "Stateflow:asset_info=41134453" GROUP Stateflow_NNU_41033057_2022b
+EXCLUDE "Stateflow:asset_info=41296740" GROUP Stateflow_NNU_2019b
+EXCLUDE "Stateflow:asset_info=41296740" GROUP Stateflow_NNU_2022b
+EXCLUDE "Stateflow:asset_info=41296740" GROUP Stateflow_NNU_2024b
+EXCLUDE "Stateflow:asset_info=41296740" GROUP Stateflow_NNU_2025b
+EXCLUDE "Stateflow:asset_info=41296740" GROUP Stateflow_NNU_40591459_2025b
+EXCLUDE "Stateflow:asset_info=41296740" GROUP Stateflow_NNU_40862198_2025b
+EXCLUDE "Stateflow:asset_info=41296740" GROUP Stateflow_NNU_41033057_2022b
+EXCLUDE "Stateflow:asset_info=846059" GROUP Stateflow_NNU_2019b
+EXCLUDE "Stateflow:asset_info=846059" GROUP Stateflow_NNU_2022b
+EXCLUDE "Stateflow:asset_info=846059" GROUP Stateflow_NNU_2024b
+EXCLUDE "Stateflow:asset_info=846059" GROUP Stateflow_NNU_2025b
+EXCLUDE "Stateflow:asset_info=846059" GROUP Stateflow_NNU_40591459_2025b
+EXCLUDE "Stateflow:asset_info=846059" GROUP Stateflow_NNU_40862198_2025b
+EXCLUDE "Stateflow:asset_info=846059" GROUP Stateflow_NNU_41033057_2022b
+
+# Exclude Statistics_Toolbox floating licenses from NNU groups
+EXCLUDE "Statistics_Toolbox:asset_info=846059" GROUP Statistics_Toolbox_NNU_2023b
+
+# Exclude Symbolic_Toolbox floating licenses from NNU groups
+EXCLUDE "Symbolic_Toolbox:asset_info=1093637" GROUP Symbolic_Toolbox_NNU_2024b
+
+# Exclude Vehicle_Network_Toolbox floating licenses from NNU groups
+EXCLUDE "Vehicle_Network_Toolbox:asset_info=846059" GROUP Vehicle_Network_Toolbox_NNU_2025b

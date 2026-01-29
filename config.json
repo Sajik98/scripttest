@@ -1,0 +1,60 @@
+{
+  "_comment": "FlexNet Options Generator Configuration",
+  "_instructions": "Edit paths and license numbers below. Use double backslashes (\\\\) in Windows paths.",
+  
+  "paths": {
+    "license_file": "C:\\Users\\u32m06\\ScriptTest\\license.lic",
+    "output_file": "C:\\Users\\u32m06\\ScriptTest\\new_structure6.opt"
+  },
+  
+  "licenses": {
+    "regensburg": {
+      "nnu": {
+        "invoiced": {
+          "license_numbers": ["563824", "40969865"],
+          "description": "Invoiced NNUs (563824, 40969865)"
+        },
+        "not_invoiced": [
+          {
+            "license_number": "708692",
+            "description": "Parking license for users not yet invoiced (708692)"
+          },
+          {
+            "license_number": "40712229",
+            "description": "Not invoiced (Graz 2019b, 40712229)"
+          }
+        ]
+      },
+      "floating": {
+        "eu_invoiced": {
+          "main_licenses": ["846059", "1093637"],
+          "polyspace_licenses": ["40799861", "40945585"],
+          "description": "EU Floating (Invoiced CN)",
+          "split_groups": true
+        },
+        "global_not_invoiced": {
+          "license_numbers": ["41296740"],
+          "description": "Global Floating (Not Invoiced CN)",
+          "group_name": "GLOBAL_FLOATING"
+        }
+      }
+    },
+    "external": {
+      "hungary": {
+        "license_numbers": ["40591459", "40862198"],
+        "type": "nnu",
+        "description": "Hungary"
+      },
+      "turkey": {
+        "nnu": ["41033057"],
+        "floating": ["41134453"],
+        "description": "Turkey"
+      }
+    }
+  },
+  
+  "backup": {
+    "enabled": true,
+    "keep_last_n_backups": 5
+  }
+}
