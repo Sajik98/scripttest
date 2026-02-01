@@ -1,2 +1,7 @@
 "test" aha
+<<<<<<< HEAD
 "smt2" 
+=======
+"smth" 
+"sss"
+>>>>>>> test2
